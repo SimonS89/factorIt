@@ -2,6 +2,6 @@
 
 Swagger : http://localhost:8080/swagger-ui/index.html#/
 
-las queries para llenar la Bd estan en resources, se ejecutan al inicializarse la app.
+SQL : El archivo SQL esta ubicado dentro del paquete Resources de la app, Se ejecuta al inicializar la misma.
 
 Postman : Esta la coleccion disponible dentro del repo.
